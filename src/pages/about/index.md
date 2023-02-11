@@ -1,19 +1,28 @@
 ---
-templateKey: 'about-page'
+templateKey: about-page
 path: /about
-title: About our values
+title: Frequently Asked Questions
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+**Q: What are the key pain points that Fireproof addresses for app developers?** 
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+A: Fireproof addresses the problem of data syncing across devices and offers a solution for developers who don't want to have to maintain backend servers. It allows them to move the structured data of their apps from the cloud to a cloudless protocol.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+**Q: How does Fireproof's peer-to-peer architecture set it apart from existing real-time database solutions?** 
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+A: With Fireproof's peer-to-peer architecture, data has the same capabilities no matter where you are, and services can be hosted anywhere. This means that data location is no longer an issue when writing code.
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+**Q: What are some of the benefits that users can expect to see when they switch to Fireproof?** 
+
+A: Fireproof offers less configuration and lower operational overhead compared to traditional real-time database solutions. Once the code works, there's no need for further maintenance. Additionally, Fireproof empowers users to own and control their data.
+
+**Q: How will you be attracting app builders and enterprise customers to Fireproof?** 
+
+A: Fireproof attracts app builders by offering a suite of app-building tools that stay out of the way while getting the job done.
+
+**Q: Can you provide examples of the kind of apps that would be a good fit for Fireproof?** 
+
+A: Fireproof is a good fit for collaborative groupware (e.g. Slack, Discord, Google Docs), social media (e.g. Instagram, Reddit), marketplaces (e.g. Airbnb, Craigslist), and line of business apps (e.g. enterprise point of sale, supply chain).
+
+**Q: How does Fireproof compare in terms of cost, performance, and reliability to existing real-time database solutions?** 
+
+A: Fireproof is free (even at scale) for basic features, and only requires payment for premium features. This makes it more cost effective than traditional real-time database solutions. Fireproof offers lower operational overhead and improved data ownership compared to other solutions.
