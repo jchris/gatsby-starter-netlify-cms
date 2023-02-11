@@ -5,12 +5,12 @@ image: /img/home-jumbotron.jpg
 heading: cloudless database for interactive apps
 subheading: cloudless database for interactive apps
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  title: What is cloudless?
+  description: Cloudless is a cutting-edge approach to data storage and compute
+    that offers faster and more cost-effective solutions compared to traditional
+    centralized services. By utilizing cryptographic signing and key-handling,
+    Cloudless enables innovative business models, cost savings, and increased
+    security.
 description: Fireproof
 intro:
   blurbs:
