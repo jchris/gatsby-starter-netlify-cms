@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Fireproof Realtime Storage
 image: /img/home-jumbotron.jpg
-heading: cloudless database for interactive apps
+heading: Scale-free hassle-free
 subheading: cloudless database for interactive apps
 mainpitch:
   title: What is cloudless?
