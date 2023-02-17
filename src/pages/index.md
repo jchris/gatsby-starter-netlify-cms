@@ -1,46 +1,25 @@
 ---
 templateKey: index-page
-title: Fireproof Realtime Storage
+title: Fireproof Realtime Database
 image: /img/placeholder.png
 heading: Scale-free hassle-free
-subheading: cloudless database for interactive apps
+subheading: realtime database for interactive apps
 mainpitch:
-  title: What is cloudless?
-  description: Cloudless is a cutting-edge approach to data storage and compute
-    that offers faster and more cost-effective solutions compared to traditional
-    centralized services. By utilizing cryptographic signing and key-handling,
-    Cloudless enables innovative business models, cost savings, and increased
-    security.
-description: Fireproof
+  title: Build faster apps, faster
+  description: >
+    Write apps faster and deploy them without without cloud lock-in by relying on cryptographic protocols to host your data. Fireproof Storage uses IFPS and the worldwide Filecoin network so your data is fast and secure. 
+description: Fireproof is a real-time database solution designed for React developers and mobile app developers who need a shared interactive data solution across devices. It solves the problem of data syncing across devices and offers a faster, easier, and more reliable alternative to existing solutions, with a peer-to-peer architecture. The product is free to get started, but a credit card is required for professional features, and at scale, it is cheaper than competitors. The target market will be reached through various marketing channels such as JavaScript community events, podcasts, coding forums, and social media. The go-to-market strategy is to attract app builders with a simple UI and free offering, and then scale up with enterprise marketing campaigns. Key metrics for measuring success include the number of apps, users, transactions, data volume, and qualified leads. The revenue model includes charging enterprises for premium features and support.
 intro:
   blurbs:
     - image: /img/placeholder.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        Easy: Fireproof provides developer tools like widgets, libraries, and templates that include user-friendly low-friction web authentication.
     - image: /img/placeholder.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        Reliable: With Fireproof's cloudless architecture, developers can build apps faster and with no backend management, making the development process more reliable and efficient.
     - image: /img/placeholder.png
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/placeholder.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        Strong: Fireproof's cryptographic signing ensures secure, trusted database diffs and the ability to move data and computation anywhere, providing a secure and flexible solution for app development.
   heading: What we offer
   description: Hellos
 main:
